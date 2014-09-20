@@ -1,0 +1,20 @@
+---
+title: "Using Color Explorer"
+author: "Michael O'Flaherty"
+date: "Saturday, September 20, 2014"
+output: html_document
+---
+### Using Color Explorer
+The Color Explorer application can be found here: [Color Explorer](http://moflaherty.shinyapps.io/ColorExplorer/)
+
+#### Settings
+Color Explorer allows you to configure different control and color settings:  
+
+* Chart Type: what type of chart is displayed
+* Number of Bars/Slices: the number of elements displayed in the chart
+* Color Theme: what color theme to display
+
+#### Technical Support
+If you have any problems what-so-ever, you may contact technical support at michael@oflaherty.com.
+
+
